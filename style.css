@@ -1,0 +1,65 @@
+body{
+ font-family:cursive;
+}
+.contenedor{
+background-color: rgb(220, 224, 228);
+height:50vh;
+margin: 5%;
+display: flex;
+justify-content: center;
+align-items: center;
+} 
+.contenedor h1,p{
+ width: 50%;
+ text-align: center;
+}
+header{
+display: flex;
+height: 70px;
+background-color: rgb(58, 74, 90);
+justify-content: space-between;
+align-items: center;
+}
+.logo{
+display: flex;
+align-items: center;
+}
+.logo img{
+height: 60px;
+margin-right: 20px;
+margin-left: 20px;
+}
+nav a{
+font-weight: bold;
+padding-right: 10px;
+text-decoration: none;
+color:black;
+}
+nav a:hover{
+ color:red;
+}
+.redes{
+background-color: rgb(220, 224, 228);
+height:50vh;
+margin: 5%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.nosotros{
+background-color: rgb(220, 224, 228);
+height:50vh;
+margin: 5%;
+display: flex;
+justify-content: center;
+align-items: center;
+}       
+.contacto{
+background-color: rgb(220, 224, 228);
+height:50vh;
+margin: 5%;
+display: flex;
+justify-content: center;
+align-items: center;
+}       
+
